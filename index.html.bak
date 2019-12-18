@@ -1,0 +1,508 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>caribbean</title>
+	<link rel="stylesheet" href="./css/base.css">
+	<link rel="stylesheet" href="./css/layout.css">
+	<link rel="stylesheet" href="./css/main.css">
+	<script src="./js/jquery-1.11.3.js"></script>
+	<link rel="stylesheet" type="text/css" href="./css/slick.css"/>
+    <link rel="stylesheet" type="text/css" href="./css/slick-theme.css" />
+    <script type="text/javascript" src="./js/slick.min.js"></script>
+</head>
+<body>
+
+
+	
+<!-- 
+
+
+-->
+
+	<div>		<!-- 상단 팝업---->
+		
+	</div>
+
+	<div class="header"> <!-- 헤더시작했다 -->
+	
+		<div class="part1">
+			<ul class="menu">
+				<li class="EverLand_resort_Logo"><a href="http://www.everland.com/web/intro.html"><img src="img/EVERLAND RESORT/main_logo.jpg"alt="메인 로고"></a></li>
+				<li class=""><a href="http://www.everland.com/web/everland/main.html"><img src="img/EVERLAND RESORT/main_tab01_off.gif" width="120" height="39" border="0" alt=""></a></li>
+				<li class=""><a href="https://reservation.everland.com/web/main.do?method=index"><img src="img/EVERLAND RESORT/main_tab02_on.gif"width="120" height="39" border="0" alt=""></a></li>
+				<li class=""><a href="http://www.everland.com/web/hb/main.html"><img src="img/EVERLAND RESORT/main_tab03_off.gif"width="96" height="39" border="0" alt=""></a></li>
+			
+				<li><img src="img/EVERLAND RESORT/bull_earth.gif"alt="이미지"class="img"></li>
+				<li class="SelectBox">
+					<a href="https://reservation.everland.com/web/main.do?method=indexnone">Korean<img src="img/EVERLAND RESORT/bt_down.gif"alt=""></a>
+				</li>
+				<ul class="langs">
+					<li class="chin_1"><a href="https://reservation.everland.com/web/main.do?method=index">汉语(简体)</a></li>
+					<li class="chin_2"><a href="https://reservation.everland.com/web/main.do?method=index">漢語(繁體)</a></li>
+					<li class="Eng"><a href="https://reservation.everland.com/web/main.do?method=index">English</a></li>
+					<li class="Jap"><a href="https://reservation.everland.com/web/main.do?method=index">日本語</a></li>
+				</ul>
+					<li class="LRS">
+						<li class="login"><a href="https://www.everland.com/service/front/loginView.do?returnUrl=http%3A//www.everland.com/web/caribbean/main.html%23none"><img src="img/EVERLAND RESORT/btn_login.gif" width="55" height="39" border="0" alt=""></a></li>
+						<li class="register"><a href="https://www.everland.com/service/front/adultMemAgreeView.do"><img src="img/EVERLAND RESORT/btn_join.gif"width="71" height="39" border="0" alt=""></a></li>
+						<li class="smart"><a href="https://reservation.everland.com/web/main.do?method=index"><img src="img/EVERLAND RESORT/smart.gif"width="98" height="39" border="0" alt="스마트 예약"></a></li>
+					</li>
+				</ul>
+			
+			<script type="text/javascript" src="./js/changeImg.js"></script>
+
+		</div> <!-- part1 닫기 -->
+
+		<div class="Tab2">
+			<div class="part2">
+				<form action="">
+					<li>
+					<fieldset style="border:0px solid; https://reservation.everland.com/web/main.do?method=indexfff; width:242px; height:31px">			<!-- 검색창 -->
+						<legend>	
+							<label for="">통합검색</label>
+						</legend>
+						<div class="input">
+							<input type="text" name=""id=""title="검색창" class="searchArea"></input>
+							<input type="image" src="img/EVERLAND RESORT/btn_search2.gif" value="검색" class="searchBt">
+						</div>
+					</fieldset>
+					</li>
+					<li>
+						<h2 class="logo">
+							<a href="https://reservation.everland.com/web/main.do?method=index" class="CaribianBay_logo"><img src="img/EVERLAND	 RESORT/logo_02cb.gif"alt="로고"></a>
+						</h2>
+					</li>
+					<li class="students"><a href="https://reservation.everland.com/web/main.do?method=index"><span>학생단체 체험학습</span></a></li>
+					<li class="epPrise"><a href="https://reservation.everland.com/web/main.do?method=index"><span>기업단체</span></a></li>
+					<li class="custCenter"><a href="https://reservation.everland.com/web/main.do?method=index"><span>손님상담센터</span></a></li>
+				</form>
+			</div>
+		</div>
+
+		<div class="part3">
+			
+			<div class="gnbs">
+					<div class="BG"></div>
+					<div class="Gnb_menu">
+						<div>
+							<div><a href="https://www.everland.com/web/caribbean/how/method/how_use_method.html">이용정보</a></div>
+							<ul>
+								<li><a href="https://www.everland.com/web/caribbean/how/method/how_use_method.html">이용방법</a></li>
+								<li><a href="http://www.everland.com/web/caribbean/how/charge/how_use_method.html">이용요금</a></li>
+								<li><a href="http://www.everland.com/web/caribbean/how/partnership/samsung.html">제휴카드</a></li>
+								<li><a href="http://www.everland.com/service/front/frontTime.do?method=operTime&siteCode=CT00102">운영시간(운휴정보)</a></li>
+								<li><a href="http://www.everland.com/web/caribbean/how/traffic/how_traffic_info04.html">교통정보</a></li>
+								<li><a href="http://www.everland.com/web/caribbean/how/amenity/how_amenity.html">편의시설</a></li>
+								<li><a href="http://www.everland.com/web/caribbean/how/guide/how_guide_map.html">가이드맵</a></li>
+							</ul>
+						</div>
+
+						<div>
+							<div><a href="http://www.everland.com/web/caribbean/how/news/now_news_list.html">뉴스&할인정보</a></div>
+							<ul>
+								<li><a href="http://www.everland.com/web/caribbean/how/news/now_news_list.html">뉴스공지</a></li>
+								<li><a href="http://www.everland.com/web/caribbean/now/card/card_promotion.html">카드할인</a></li>
+								<li><a href="http://www.everland.com/web/caribbean/now/month/month_promotion.html">이달의 할인</a></li>
+							</ul>
+						</div>
+						<div>
+							<div><a href="http://www.everland.com/web/caribbean/favorite/attractions/index.html">즐길거리</a></div>	
+							<ul>
+								<li><a href="http://www.everland.com/web/caribbean/favorite/attractions/index.html">어트랙션</a></li>
+								<li><a href="http://www.everland.com/web/caribbean/favorite/village/index.html">빌리지</a></li>
+								<li><a href="http://www.everland.com/web/caribbean/favorite/restaurant/index.html">레스토랑</a></li>
+								<li><a href="http://www.everland.com/web/caribbean/favorite/giftshop/index.html">선물숍</a></li>
+							</ul>
+						</div>
+						<div>
+							<div><a href="http://www.everland.com/web/caribbean/wow/theme/wow_theme_story01.html">캐리비안 베이 더 알아보기</a></div>
+								<ul>
+									<li><a href="http://www.everland.com/web/caribbean/wow/theme/wow_theme_story01.html">캐리비안 베이 스토리</a></li>
+									<a href="http://www.everland.com/web/caribbean/how/news/1212875_10757.html"><img src="./img/EVERLAND RESORT/btn_guide_app.jpg" /></a>
+								</ul>
+						
+						</div>
+						
+						<script type="text/javascript" src="./js/gnbs.js"></script>
+					</div>
+			</div>
+			
+		</div>
+	</div><!-- 헤더끝났다 -->
+	
+
+<!-----------메인 내용 시작 ----->
+
+	<div class="cont">
+		<!-- <p class="pos">0</p> -->
+		<ul class="nav" id="nav">
+			<li><a href="#ad" class="bt">What's<br>New<br>신규즐길거리</a></li>
+			<li><a href="#EP" class="bt">Editor's<br>Pick<br>추천꿀팁</a></li>
+			<li><a href="#Info" class="bt">Information<br>운영정보</a></li>
+			<li><a href="#TP" class="bt">Promotion<br>오늘의할인 </a></li>
+		</ul>
+		
+			<div class="inner">
+				<div class="slide">
+				
+				
+					<div class="first_zone">
+						<img src="./img/EVERLAND RESORT/CB_Vusual_Dudungsill_bg.jpg" alt=""/>
+						<div class="__box__">
+							
+							<div class="first_img_zone">
+								<img src="./img/EVERLAND RESORT/CB_Vusual_Dudungsill_0222.png" alt=""  style="height:100%"/>
+								<div class="btn_zone">
+									<a href="http://www.everland.com/service/front/frontTime.do?method=operTime&siteCode=CT00102"><img src="./img/EVERLAND RESORT/CB_Vusual_Dudungsill_BTN.png" alt=""/></a>
+								</div>
+							</div>
+						</div>
+					</div>
+					
+					
+					<div>
+						<div class="first_zone">
+							<img src="./img/EVERLAND RESORT/cb_Visual_180628_bg.jpg" alt=""/>
+						
+							
+							<div class="__box__">
+								<div class="first_img_zone">
+									<img src="./img/EVERLAND RESORT/el_MainVisual_180625_02_1.png" alt="" style="height:100%"/>
+									<div class="btn_zone2" >
+										<a href="https://www.everland.com/service/front/adultMemAgreeView.do"><img src="./img/EVERLAND RESORT/el_Visual_180628_BTN_1.png" alt=""/></a>
+										<a href="https://www.everland.com/service/front/loginView.do?returnUrl=http%3A//www.everland.com/web/everland/main.html"><img src="./img/EVERLAND RESORT/cb_Visual_180628_BTN.png" alt=""/></a>
+									</div>
+								</div>
+							</div>
+						</div>
+						
+					</div>
+				</div>
+				<script src="./js/visual.js"></script>
+			</div>
+
+		
+		<div class="ad" id="ad">
+			<div class="Print_area">
+				<h1 class="whatsNEw">What's New</h1>
+				<h2>최고의 워터파크!캐리비안 베이로 어서 오세요!</h2>
+
+				<div class="box">
+					<div class="indi">
+						<a href="./conts/NoPage.html"><div class="scale">
+							<div class="IMG"><img src="img/EVERLAND RESORT/CB_notice_beach_03Whatbanner.jpg"alt=""></div></div><br>
+							<div class="EX">
+								<p>프라이빗한 휴식을 원한다면</p>
+								<div>럭셔리 비치체어PKG</div>
+							</div>
+						</a>
+					</div>
+
+					<div class="indi">
+						<a href="./conts/NoPage.html"><div class="scale">
+							<div class="IMG"><img src="img/EVERLAND RESORT/aqualoof_180806.jpg"alt=""></div></div><br>
+							<div class="EX">
+								<p>캐비 최강 스릴!</p>
+								<div>아쿠아루프</div>
+							</div>
+						</a>
+					</div>
+
+					<div class="indi">
+						<a href="./conts/NoPage.html"><div class="scale">
+							<div class="IMG"><img src="img/EVERLAND RESORT/cb_main_whatnew_food24.jpg"alt=""></div></div><br>
+							<div class="EX">
+								<p>오직캐비에서만!</p>
+								<div>MEGA BBQ&BEER FESTIVAL</div>
+							</div>
+						</a>
+					</div>
+	
+					<div class="indi">
+						<a href="./conts/NoPage.html"><div class="scale">
+							<div class="IMG"> <img src="img/EVERLAND RESORT/CB_notice_pickids.jpg"alt=""> </div></div> <br>
+							<div class="EX">
+								<p>휴식시간에 독서타임을!</p>
+								<div>키디빌리지</div>
+							</div>
+						</a>
+					</div>
+				</div>
+			</div>
+		</div>	
+		
+
+
+		<div class="EP" id="EP">
+			<div class="EP_cont_inner">
+				<p class="name"><span>Editor's Pick</span><br>
+					<strong>캐리비안베이가더즐거워지는 꿀-팁!</strong>
+				</p>
+				<div class="EP_cont">
+					<div class="indi">
+						<a href="./conts/NoPage.html"><div class="scale">
+							<div class="IMG"><img src="img/EVERLAND RESORT/img_editors_pick_01.jpg"alt=""></div></div>
+							<div class="EX">
+								<p>리얼 100% 꿀팁후기</p>
+								<div>캐리비안베이<br>완전정복시즌1</div>
+							</div>
+						</a>
+					</div>
+				
+					<div class="indi">
+						<a href="./conts/NoPage.html"><div class="scale">
+							<div class="IMG"><img src="img/EVERLAND RESORT/CB_TIP_170816.jpg"alt=""></div></div>
+							<div class="EX">
+								<p>알차게 즐겨라!</p>
+								<div>캐리비안베이<br>완전정복 시즌2</div>
+							</div>
+						</a>
+					</div>
+
+					<div class="indi">
+						<a href="./conts/NoPage.html"><div class="scale">
+							<div class="IMG"><img src="img/EVERLAND RESORT/CB_main_pick_20180517_1.jpg"alt=""></div></div>
+							<div class="EX">
+								<p>돌아온캐리비안베이</p>
+								<div>지금이황금찬스!</div>
+							</div>
+						</a>
+					</div>
+
+					<div class="indi">
+						<a href="./conts/NoPage.html"><div class="scale">
+							<div class="IMG"><img src="img/EVERLAND RESORT/CB_main_pick_20180517_2.jpg"alt=""></div></div>
+							<div class="EX">
+								<p>짜릿한 낙하!</p>
+								<div>맨몸워터슬라이드 아쿠아루프</div>
+							</div>
+						</a>
+					</div>
+				</div>
+			</div>
+		</div>
+		<script src="./js/indi.js"></script>
+
+		<div class="Info" id="Info" style="background:https://reservation.everland.com/web/main.do?method=indexe9f5f9;width:100%;height:737px;display:block;">
+			<div class="cont_inner">
+				<p class="name">
+					<strong>Imformation</strong><br>
+					<span>지금 바로 생생한 현장 소식</span>
+				</p>
+				<div class="info_inner">
+					<div class="News">
+						<p class="M_tit">NEWS & NOTICE</p>
+						<p class="S_tit">새로운 소식들</p>
+						<ul>
+							<li><a href="./conts/NoPage.html">신곡 발매 기념! 노라조 쇼케이스</a></li>
+							<li><a href="./conts/NoPage.html">★중요★ 캐리비안베이 이용고객에게 에버랜드 이용혜택을 드립니다 Click!</a></li>
+							<li><a href="http://www.everland.com/web/caribbean/how/news/1216756_10757.html">캐리비안베이 이용약관 개정안내</a></li>
+							<li><a href="http://www.everland.com/web/caribbean/how/news/1216445_10757.html">캐리비안 베이, 세계워터파크협회 "수상 안전 캠페인" 참여</a></li>
+							<li><a href="http://www.everland.com/web/caribbean/how/news/1216391_10757.html">에버랜드&캐리비안베이 금연파크 지정 안내</a></li>
+							<li><a href="http://www.everland.com/web/caribbean/how/news/1216277_10757.html">파도풀에서 더 자유롭게 놀자! [베이코인] 이용안내</a></li>
+							<li><a href="http://www.everland.com/web/caribbean/how/news/1215339_10757.html">기어 핏2로 더 스마트하게 즐기는 캐리비안베이</a></li>
+						</ul>
+					</div>
+
+					<div class="T_Time">
+						<p class="M_tit">Today <br>
+							<span>오늘의 운영시간</span>
+						</p>
+						<div class="conts">
+							<strong class="Today" id="Today"></strong> <!-- 매일 바뀜 -->
+							<p class="insi"><span>실내 </span><strong> 08:00 - 21:00</strong></p>
+							<p class="outsi"><span>실외</span><strong>08:00 - 21:00</strong></p>
+							<script src="./js/today.js"></script>
+							<span class="S_tit">오늘의 운휴안내</span>
+							<p class="explain">
+								- <br> 어트랙션 대기시간은 <br> 캐리비안베이APP을 확인해주세요
+							</p>
+							<div class="bt">
+								<a href="http://www.everland.com/web/caribbean/how/method/how_use_method.html">캐리비안 이용방법A to Z</a>
+							</div>
+						</div>
+					</div>
+
+					<div class="Etc">
+						<p class="S_reservate">스마트예약 <br> <span>방문 전에 미리준비!</span> 
+						</p>
+
+						<ul>
+							<li><a href="https://reservation.everland.com/web/main.do?method=index"><img src="img/EVERLAND RESORT/ico_smart_reservation_01_01.png"	 width="42" height="41" border="0" alt="">이용권</a></li>
+							<li><a href="https://reservation.everland.com/web/main.do?method=index"><img src="img/EVERLAND RESORT/ico_smart_reservation_02_01.png"	 width="42" height="41" border="0" alt="">베이코인</a></li>
+							<li><a href="https://reservation.everland.com/web/main.do?method=index"><img src="img/EVERLAND RESORT/ico_smart_reservation_03_01.png"	 width="42" height="41" border="0" alt="">발레파킹</a></li>
+							<li><a href="https://reservation.everland.com/web/main.do?method=index"><img src="img/EVERLAND RESORT/ico_smart_reservation_04_01.png"	 width="42" height="41" border="0" alt="">빌리지</a></li>
+							<li><a href="https://reservation.everland.com/web/main.do?method=index"><img src="img/EVERLAND RESORT/ico_smart_reservation_05_01.png"	 width="42" height="41" border="0" alt="">실내비치체어</a></li>
+						</ul>
+					</div>
+					<a href="http://www.everland.com/web/caribbean/how/traffic/how_traffic_info04.html">
+					<div class="traffic">
+						<img src="img/EVERLAND RESORT/ico-traffic.png" width="70" height="70"	border="0" alt="">
+						<span>"우리집에서 에버랜드까지"</span><br>
+						<p class="B_text">
+							<strong>대중교통·자가용</strong><em>이용방법</em>
+						</p>
+					</div>
+					</a>
+				</div>
+			</div>
+		</div>
+		
+
+		<div class="TP" id="TP">
+			<div class="Print_area">
+				<h1>Ticket Promotion</h1>
+				<h2>나에게꼭맞춘알찬할인정보</h2>
+				<ul class="sale_inner">
+					<li>
+						<a href="https://reservation.everland.com/web/main.do?method=index">
+							<span>카드할인</span>
+							<img src="img/EVERLAND RESORT/cb_icon_card.png" width="102" height="102" border="0" alt="">	
+							<strong>스마트예약</strong>
+							<em>29,900원</em>
+						</a>
+					</li>
+					<li>
+						<a href="https://reservation.everland.com/web/main.do?method=index">
+							<span>카드할인</span>
+							<img src="img/EVERLAND RESORT/ico_kb.png" width="102" height="102" border="0" alt="">
+							<strong>KB국민카드</strong>
+							<em>전회원 현장우대</em>
+						</a>
+					</li>
+					<li>
+						<a href="https://reservation.everland.com/web/main.do?method=index">
+							<span>카드할인</span>
+							<img src="img/EVERLAND RESORT/thum_hyundai.png" width="102" height="102" border="0" alt="">
+							<strong>현대카드<br>M포인트</strong>
+							<em>본인50%할인</em>
+						</a>
+					</li>
+					<li>
+						<a href="https://reservation.everland.com/web/main.do?method=index">
+							<span>카드할인</span>
+							<img src="img/EVERLAND RESORT/ico_bc.png" width="62" height="62" border="0" alt="">
+							<strong>BC카드</strong>
+							<em>전회원40% 우대</em>
+						</a>
+					</li>
+					<li>
+						<a href="https://reservation.everland.com/web/main.do?method=index">
+							<span>이달의할인</span>
+							<img src="img/EVERLAND RESORT/cb_life_1808.png" width="102" height="102" border="0" alt="">
+							<strong>중/고/대학(원)생<br>스마트예약</strong>
+							<em>구명자켓무료대여</em>
+						</a>
+					</li>
+				</ul>
+				<p class="Plus">
+					<a href="https://reservation.everland.com/web/main.do?method=index" class="CSpl">
+						<strong>카드할인</strong><span>자세히보기</span>
+						<img src="img/EVERLAND RESORT/btn_arr_black.png" width="18" height="9" border="0" alt="">
+					</a>
+					<a href="https://reservation.everland.com/web/main.do?method=index" class="THpl">
+						<strong>이달의할인</strong><span>자세히보기</span>
+						<img src="img/EVERLAND RESORT/btn_arr_black.png" width="18" height="9" border="0" alt="">
+					</a>
+				</p>
+			</div>
+		</div>
+		
+	</div>
+
+	<div class="footer">
+		<div class="bg1">
+			<div class="FT">
+				<ul class="SnS">
+					<li><a href="https://reservation.everland.com/web/main.do?method=index"><img src="img/EVERLAND RESORT/btn_sns_go01.gif" width="60" height="45" border="0" alt="">  </a></li>
+					<li><a href="https://reservation.everland.com/web/main.do?method=index"> <img src="img/EVERLAND RESORT/btn_sns_go02.gif" width="60" height="45" border="0" alt=""> </a></li>
+					<li><a href="https://reservation.everland.com/web/main.do?method=index"> <img src="img/EVERLAND RESORT/btn_sns_go03.gif" width="60" height="45" border="0" alt=""> </a></li>
+					<li><a href="https://reservation.everland.com/web/main.do?method=index"> <img src="img/EVERLAND RESORT/btn_sns_go04.gif" width="60" height="45" border="0" alt=""> </a></li>
+					<li><a href="https://reservation.everland.com/web/main.do?method=index"> <img src="img/EVERLAND RESORT/btn_sns_go05.gif" width="61" height="45" border="0" alt=""> </a></li>
+				</ul>
+				<div class="Family_Site">
+					<a href="https://reservation.everland.com/web/main.do?method=index">
+						<img src="img/EVERLAND RESORT/footer_flink_02_new.gif" width="188" height="28" border="0" alt="">
+					</a>
+					<ul class="selector">
+						<li><a href="https://reservation.everland.com/web/main.do?method=index">삼성물산 리조트부문</a></li>
+						<li><a href="https://reservation.everland.com/web/main.do?method=index">골프클럽</a></li>
+						<li><a href="https://reservation.everland.com/web/main.do?method=index">My Dog & SAMSUNG</a></li>
+						<li><a href="https://reservation.everland.com/web/main.do?method=index">서비스아카데미</a></li>
+					</ul>
+				</div>
+				<div class="Resort_fac">
+					<a href="https://reservation.everland.com/web/main.do?method=index">
+						<img src="img/EVERLAND RESORT/footer_flink_01_new.gif" width="137" height="28" border="0" alt="">
+					</a>
+					<ul class="selector">
+						<li> <a href="https://reservation.everland.com/web/main.do?method=index">교통박물관 </a></li>
+						<li> <a href="https://reservation.everland.com/web/main.do?method=index">호암미술관 </a></li>
+						<li> <a href="https://reservation.everland.com/web/main.do?method=index">글렌로스 골프 클럽 </a></li>
+					</ul>
+				</div>
+			</div>
+		</div>
+		<div class="bg2">
+			<div class="FM">
+				<ul class="menu">
+					<li><a href="http://www.everland.com/web/everland/resort/intro/resort_intro.html"> 에버랜드 리조트 소개 </a></li>
+					<li><a href="http://www.everland.com/web/everland/provision/h_provision/provision_new.html"> 이용약관 </a></li>
+					<li><a href="http://www.everland.com/web/everland/personalinfo/personal_info01/personal_info.html"> 개인정보처리방침 </a></li>
+					<li><a href="https://rnc.samsungcnt.com/service/popSecurity.do?"> 보안신고 </a></li>
+					<li><a href="http://www.everland.com/web/everland/email/email_refusal.html"> 이메일주소 무단수집 거부 </a></li>
+					<li><a href="http://www.everland.com/web/everland/recruitment/cast/recruitment/news/recruitment_guide01.html"> 채용 </a></li>
+					<li><a href="http://www.everland.com/web/everland/sitemap/sitemap.html"> 사이트맵 </a></li>
+				</ul>
+
+				<div class="Explain">
+					<p>
+						경기도 용인시 처인구 포곡읍 에버랜드로 199 삼성물산(주)
+					</p>
+					<p>대표이사 : 정금용 | 사업자등록번호 : 135-85-04288 | 통신판매업 신고번호 : 제2006-용인처인-0216호 | 
+						<a href="https://reservation.everland.com/web/main.do?method=index">사업자정보확인▶</a>
+					</p>
+					<p><a href="https://reservation.everland.com/web/main.do?method=index">손님상담센터 :</a>031-320-5000(유료)</p>
+					<p>Copyright © 1996~2017 Samsung C&T Corporation. All rights reserved.</p>
+				</div>
+
+				<div class="Info_img">
+					<a href="https://reservation.everland.com/web/main.do?method=index"><img src="img/EVERLAND RESORT/btn_allatescow.gif" width="110" height="58" border="0" alt=""></a>
+				</div>
+			</div>
+		</div>
+	</div>
+	
+	
+	
+	
+	<script src="./js/nav.js"></script>
+
+	
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,205 @@
+.cont {width:100%;float:left;}
+.cont a:hover{text-decoration: none;}
+
+.cont .cont1 {width:100%;height:570px; margin:0 0 70px}
+.cont .slide {width:1600px; height:570px; margin:0 auto; min-width:625px; min-height:356px}
+.cont .slide div {width:1600px;float:left;;display:none}
+.cont .slide div:nth-child(1){display:block}
+.cont .slide div:nth-child(1) .M_IMG {width:1600px;height:570px}
+
+/***********************************************************************/
+
+/*
+.cont .ad {width:1000px;height:603px;float:left;position:absolute;top:680px;}
+.cont .line_maker {width:100%;height:0;border:1px solid #000;}
+.cont .ad h1 {width:1000px}
+.cont .ad .whatsNEw {position:absolute; top:-25px; display:block;text-align:center;vertical-align:middle}
+.cont .ad h2 {text-align:center;width: 100%; height:20px;line-height:20px;vertical-align:middle;font-size:20px; position:absolute;top:25px}
+.cont .ad .box {position:absolute; vertical-align:middle; width:1020px;height:505px; top:90px; left:25px}
+.cont .ad .box div {display:inline-block}
+.cont .ad .box .indi {float: left;box-sizing:border-box;margin: 0 10px 20px;width:235px;text-align:center;}
+
+.cont .ad .box .indi .EX p {color: #3b3b3b;font-size: 15px;font-weight: 400;
+font-family: "Noto Sans KR", Montserrat, "Malgun Gothic", Dotum, sans-serif;letter-spacing: -1px;}
+.cont .ad .box .indi .EX div {font-size:17px; font-weight:400; letter-spacing:-1px;}
+*/
+
+
+
+/**********************************************************************************/
+
+.cont .ad {width:100%;height:390px; display:block;letter-spacing:-1px;}
+.cont .ad .Print_area {width: 1000px; height:390px;margin:0 auto}
+.cont .ad .Print_area .whatsNEw{height:40px; width:1000px; margin:0 0 10px; font-size:35px;
+display:block; text-align:center;font-family: Montserrat, sans-serif;font-weight:900}
+.cont .ad .Print_area .middle_name {width: 1000px;display: block;text-align: center;
+margin:0 0 40px;font-size:20px; font-weight:300}
+.cont .ad .Print_area .box {width:1020px;height:272px;}
+.cont .ad .Print_area .box .indi{float: left;box-sizing:border-box;margin: 0 10px 20px;
+width:235px;text-align:center;height:235px;}
+.cont .ad .Print_area .box .indi .EX {height: 47px; padding:20px 0 20px;}
+.cont .ad .Print_area .box .indi .EX p {color: #3b3b3b;font-size:15px;font-weight:400;
+font-family: "Noto Sans KR", Montserrat, "Malgun Gothic", Dotum, sans-serif;
+letter-spacing: -1px;}
+.cont .ad .Print_area .box .indi .EX div {font-size:17px;
+font-weight:300; letter-spacing:-1px; color:#3b3b3b; margin:5px 0 0;}
+/**********************************************************************************/
+
+.cont .EP{width:100%;height:470px;display:block;padding: 60px 0;}
+.cont .EP .EP_cont_inner {width:1000px;height:470px;margin:0 auto;}
+.cont .EP .EP_cont_inner .name {width:1000px;margin:0 0 40px;}
+.cont .EP .EP_cont_inner .name span{font-size:35px;display:block;text-align:center;}
+.cont .EP .EP_cont_inner .name strong {width: 1000px;display: block;text-align: center;
+margin: 0 auto;font-size:20px;  font-weight:normal}
+.cont .EP .EP_cont_inner .EP_cont {width:1000px;height:414px;}
+.cont .EP .EP_cont_inner .EP_cont div{display:inline-block;}
+.cont .EP .EP_cont_inner .EP_cont .indi {float:left;box-sizing:border-box;margin:0 0 20px;
+width:235px; text-align:center;}
+.cont .EP .EP_cont_inner .EP_cont .indi img{border-radius:100%;}
+.cont .EP .EP_cont_inner .EP_cont .indi .EX p {color:#3b3b3b; font-size:15px;font-weight:400
+font-family: "Noto Sans KR", Montserrat, "Malgun Gothic", Dotum, sans-serif;letter-spacing: -1px;}
+.cont .EP .EP_cont_inner .EP_cont .indi .EX div {font-size:17px; font-weight:300;
+letter-spacing:-1px;line-height:25px;color:#3b3b3b;}
+/**********************************************************************************/
+
+/**********************************************************************************/
+.cont .Info {background:#e9f4f7;width:100%;height:737px;display:block;padding: 60px 0;}
+.cont .Info .cont_inner {width:1000px;height:617px;margin:0 auto;}
+.cont .Info .cont_inner .name {position: relative;margin: 0 0 40px; text-align:center;}
+.cont .Info .cont_inner .name strong{display: inline-block;position:font-size:35px; ;z-index: 5;margin: 0 0 10px;
+width:379px;color:#272830;font-size:38px;font-weight:1000;
+font-family: Montserrat, sans-serif;line-height:1;}
+.cont .Info .cont_inner .name span{color: #272830;font-size:20px;font-weight: 300;}
+.cont .Info .cont_inner .info_inner {position: relative;width:1000px;height:500px;}
+
+.cont .Info .cont_inner .info_inner .News{width:325px; height:498px; background:#fff;
+float:left;border:1px solid #e6e6e6;border-bottom:2px solid #e6e6e6;
+border-top:2px solid #1450f5;box-sizing:border-box;padding:20px}
+
+.cont .Info .cont_inner .info_inner .T_Time{width:325px; height:498px; background:#fff;
+float:left;border:1px solid #e6e6e6;border-bottom:2px solid #e6e6e6;
+border-top:2px solid #1450f5; margin-left:10px;box-sizing:border-box;
+padding:35px 20px 35px}
+
+.cont .Info .cont_inner .info_inner .Etc{width:325px; height:378px; background:#fff;
+float:left; margin-left:10px;box-sizing:border-box;}
+
+.cont .Info .cont_inner .info_inner .traffic{width:325px;height:109px; background:#fff;
+float:left; margin:10px 0 0 10px; box-sizing:border-box;}
+
+/* New 작업 */
+.cont .Info .cont_inner .info_inner .News .M_tit {display:block;margin: 0 0 5px;
+color: #272830;font-size:28px;font-weight:800;font-family:Montserrat,sans-serif;
+line-height:1; text-align:center;}
+.cont .Info .cont_inner .info_inner .News .S_tit{text-align:center;
+color: #272830;font-size: 18px;font-weight: 300;}
+
+.cont .Info .cont_inner .info_inner .News ul {margin-top:35px;border-top:1px solid black;
+border-bottom:1px solid black; list-style:circle;}
+.cont .Info .cont_inner .info_inner .News ul li {height: 48px;border-bottom:1px solid #ebebeb;}
+.cont .Info .cont_inner .info_inner .News a {display:block; position: relative;
+overflow:hidden;padding:16px 10px;width: 100%; white-space:nowrap; line-height:1;
+font-size:15px; text-overflow:ellipsis; color:#666666}
+.cont .Info .cont_inner .info_inner .News a:hover{text-decoration:none}
+.cont .Info .cont_inner .info_inner .News ul li:nth-child(7){border-bottom:0}
+
+/* New 끝*/
+/* T_Time */
+
+.cont .Info .cont_inner .info_inner .T_Time .M_tit{position: relative;margin: 0 0 33px;
+text-align: center;display:block;color: #272830;
+font-size: 28px;font-weight: 800;font-family: Montserrat, sans-serif;line-height: 1;
+text-align:center;}
+.cont .Info .cont_inner .info_inner .T_Time .M_tit span{color: #272830;font-size: 18px;
+font-weight: 300;}
+.cont .Info .cont_inner .info_inner .T_Time .conts {border-top:1px solid #ebebeb;
+}
+.cont .Info .cont_inner .info_inner .T_Time .conts .Today{margin: 0 0 5px;padding: 4px 0 0;
+text-align: center;color: #272830; font-size: 20px;
+font-weight: 700; display:block}
+.cont .Info .cont_inner .info_inner .T_Time .conts .insi span{font-size: 15px;
+font-weight: 400;font-family: "Noto Sans KR", Montserrat, "Malgun Gothic", Dotum, sans-serif;
+letter-spacing: -1px;}
+.cont .Info .cont_inner .info_inner .T_Time .conts .outsi span{font-size: 15px;
+font-weight: 400;font-family: "Noto Sans KR", Montserrat, "Malgun Gothic", Dotum, sans-serif;
+letter-spacing: -1px;}
+
+.cont .Info .cont_inner .info_inner .T_Time .conts .insi strong{display: inline-block;
+color: #134ef6;font-size: 33px;font-weight: 800;font-family: Montserrat, sans-serif;}
+.cont .Info .cont_inner .info_inner .T_Time .conts .outsi strong{display: inline-block;
+color: #134ef6;font-size: 33px;font-weight: 800;font-family: Montserrat, sans-serif;}
+.cont .Info .cont_inner .info_inner .T_Time .conts .S_tit{display: block;
+text-align: center;font-size: 15px;margin-top: 15px;color: #3a2bff;
+}
+.cont .Info .cont_inner .info_inner .T_Time .conts .explain{text-align: center;
+color: #423b38;font-size: 14px;height:108px}
+.cont .Info .cont_inner .info_inner .T_Time .conts .bt{text-align: center}
+
+.cont .Info .cont_inner .info_inner .T_Time .conts .bt a{display: inline-block;
+padding:7px 0;width: 185px;height:24px;border-radius: 30px;
+border: 1px solid #144ff6;color: #134ef6; text-align: center;font-size:14px;
+line-height:24px}
+
+.cont .Info .cont_inner .info_inner .S_reservate{box-sizing: border-box;
+margin: 0;padding: 35px 5px 0 0;height: 129px; background:#1b55f5; font-size:28px;
+text-align:center; color:#fff; font-weight:bold}
+.cont .Info .cont_inner .info_inner .Etc .S_reservate span{ color:#fff; font-size:18px;
+font-weight:normal}
+.cont .Info .cont_inner .info_inner .Etc ul {box-sizing:border-box; padding:35 5px 0 0;
+height:129px;}
+.cont .Info .cont_inner .info_inner .Etc ul li {float: left;width:161px;height:82px;
+border:1px solid #e0e0e0;background:#fff;border-top:0px}
+.cont .Info .cont_inner .info_inner .Etc ul li:nth-child(5){width:323px}
+.cont .Info .cont_inner .info_inner .Etc ul li:nth-child(1),
+.cont .Info .cont_inner .info_inner .Etc ul li:nth-child(3){border-right:0}
+.cont .Info .cont_inner .info_inner .Etc ul li a{text-align:center;display: inline-block;
+width: 160px;height: 80px; line-height:80px;color: #272830;font-size: 16px;}
+/****  traffic 작업 ******/
+.cont .Info .cont_inner .info_inner .traffic {background:#fff;padding:0 0 0 20px;}
+.cont .Info .cont_inner .info_inner .traffic span{color: #3b3b3b;font-size: 15px;
+font-weight:400;font-family:"Noto Sans KR", Montserrat, "Malgun Gothic", Dotum, sans-serif;
+letter-spacing: -1px; margin:0 10px 0}
+.cont .Info .cont_inner .info_inner .traffic img{margin-top:20px}
+.cont .Info .cont_inner .info_inner .traffic strong{color: #6d2cb7;font-size: 17px;
+font-weight:normal}
+.cont .Info .cont_inner .info_inner .traffic em {font-size: 17px;}
+.cont .Info .cont_inner .info_inner .traffic .B_text{display:inline-block;position: relative;
+top: -25px; left: 80px;}
+							/* TP area */
+
+/**************************************************************************************/
+
+.cont .TP {width:100%; height:555px;padding:55px 0 0;background:#f7f7f7;}
+.cont .TP .Print_area {width:1000px; height:417px; margin:0 auto;}
+.cont .TP .Print_area h1{display:inline-block;position:relative;
+margin: 0 0 10px;width:100%;color: #272830;font-size: 38px;font-weight: 900;
+font-family:Montserrat, sans-serif;line-height: 1;text-align:center}
+.cont .TP .Print_area h2 {color:#272830;font-size:20px;font-weight: 300;width:100%;
+text-align:center;}
+.cont .TP .Print_area a:hover{text-decoration:none}
+.cont .TP .Print_area .sale_inner {width:100%; border:1px solid #e6e6e6; background:#fff; height:230px;margin: 40px 0 0;}
+.cont .TP .Print_area .sale_inner li{float:left;width:200px;height:228px;text-align:center;}
+.cont .TP .Print_area .sale_inner li span {display: block;margin:20px 0 0;font-size: 14px;}
+.cont .TP .Print_area .sale_inner li:nth-child(5){width:198px}
+.cont .TP .Print_area .sale_inner li img {width:62px; height:62px;display:block; margin:15px 69px 0}
+.cont .TP .Print_area .sale_inner li strong{display: block;margin: 15px 0px 5px;color: #272830;font-size: 18px;
+font-weight: 500;line-height:1.4;}
+.cont .TP .Print_area .sale_inner li em {color: #3b3b3b;font-size: 15px;font-weight: 400;
+font-family: "Noto Sans KR", Montserrat, "Malgun Gothic", Dotum, sans-serif;
+letter-spacing: -1px;}
+.cont .TP .Print_area .sale_inner li:nth-child(1) em {color:#134ef6}
+
+
+.cont .TP .Print_area .Plus {width:1000px; height:45px; margin:25px 0 0; display:inline-block;text-align:center;}
+
+
+
+.cont .TP .Print_area .Plus .CSpl,
+.cont .TP .Print_area .Plus .THpl{display:inline-block;width:250px;height:45px;border-radius:30px;
+margin:0 15px 0}
+.cont .TP .Print_area .Plus .CSpl{border:1px solid #134ef6;}
+.cont .TP .Print_area .Plus .THpl{border:1px solid #7c2ed4;}
+.cont .TP .Print_area .Plus .CSpl strong,
+.cont .TP .Print_area .Plus .THpl strong {color: #444;font-size: 16px;font-weight: 500; line-height:45px}
+.cont .TP .Print_area .Plus .CSpl span,
+.cont .TP .Print_area .Plus .THpl span{color: #444;font-size: 16px;font-style: normal;margin-right:10px;line-height:45px}
